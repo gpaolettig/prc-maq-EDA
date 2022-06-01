@@ -1,0 +1,569 @@
+# depslib dependency file v1.0
+1638150833 source:c:\users\juan_\desktop\universidad\2) estructura de datos y algoritmos\practica\tpmaquinas\tp3\p3-grupo1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Articulo.h"
+	"LSO.h"
+	"LSOBT.h"
+	"RAL.h"
+	"RAC.h"
+	"ABB.h"
+
+1635944596 c:\users\juan_\desktop\universidad\2) estructura de datos y algoritmos\practica\tpmaquinas\tp3\p3-grupo1\articulo.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1637979413 c:\users\juan_\desktop\universidad\2) estructura de datos y algoritmos\practica\tpmaquinas\tp3\p3-grupo1\lso.h
+	<string.h>
+	"Articulo.h"
+
+1638146632 c:\users\juan_\desktop\universidad\2) estructura de datos y algoritmos\practica\tpmaquinas\tp3\p3-grupo1\lsobt.h
+	<math.h>
+	<string.h>
+	"Articulo.h"
+
+1638030350 c:\users\juan_\desktop\universidad\2) estructura de datos y algoritmos\practica\tpmaquinas\tp3\p3-grupo1\ral.h
+	<stdlib.h>
+	<string.h>
+	"articulo.h"
+
+1638030350 c:\users\juan_\desktop\universidad\2) estructura de datos y algoritmos\practica\tpmaquinas\tp3\p3-grupo1\rac.h
+	<stdlib.h>
+	<string.h>
+	"articulo.h"
+
+1638027350 c:\users\juan_\desktop\universidad\2) estructura de datos y algoritmos\practica\tpmaquinas\tp3\p3-grupo1\abb.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"articulo.h"
+
+1636582992 source:c:\users\ginop\downloads\11-20211110t165046z-001\biblio 10-11\p3-grupo1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Articulo.h"
+	"LSO.h"
+	"LSOBT.h"
+	"RAL.h"
+	"RAC.h"
+	"ABB.h"
+
+1636016596 c:\users\ginop\downloads\11-20211110t165046z-001\biblio 10-11\p3-grupo1\articulo.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1636573531 c:\users\ginop\downloads\11-20211110t165046z-001\biblio 10-11\p3-grupo1\lso.h
+	<string.h>
+	"Articulo.h"
+
+1636573531 c:\users\ginop\downloads\11-20211110t165046z-001\biblio 10-11\p3-grupo1\lsobt.h
+	<math.h>
+	<string.h>
+	"Articulo.h"
+
+1636578485 c:\users\ginop\downloads\11-20211110t165046z-001\biblio 10-11\p3-grupo1\ral.h
+	<stdlib.h>
+	<string.h>
+	"articulo.h"
+
+1636578522 c:\users\ginop\downloads\11-20211110t165046z-001\biblio 10-11\p3-grupo1\rac.h
+	<stdlib.h>
+	<string.h>
+	"articulo.h"
+
+1636582560 c:\users\ginop\downloads\11-20211110t165046z-001\biblio 10-11\p3-grupo1\abb.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"articulo.h"
+
+1636582560 source:c:\users\ginop\downloads\11-20211110t165046z-001\biblio 10-11\p3-grupo1\abb.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"articulo.h"
+
+1636016596 source:c:\users\ginop\downloads\11-20211110t165046z-001\biblio 10-11\p3-grupo1\articulo.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1636573531 source:c:\users\ginop\downloads\11-20211110t165046z-001\biblio 10-11\p3-grupo1\lso.h
+	<string.h>
+	"Articulo.h"
+
+1636573531 source:c:\users\ginop\downloads\11-20211110t165046z-001\biblio 10-11\p3-grupo1\lsobt.h
+	<math.h>
+	<string.h>
+	"Articulo.h"
+
+1636578522 source:c:\users\ginop\downloads\11-20211110t165046z-001\biblio 10-11\p3-grupo1\rac.h
+	<stdlib.h>
+	<string.h>
+	"articulo.h"
+
+1636578485 source:c:\users\ginop\downloads\11-20211110t165046z-001\biblio 10-11\p3-grupo1\ral.h
+	<stdlib.h>
+	<string.h>
+	"articulo.h"
+
+1636633568 source:c:\users\juan_\desktop\universidad\2) estructura de datos y algoritmos\practica\tpmaquinas\tp3\vicentuco 3.0\p3-grupo1\abb.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"articulo.h"
+
+1636002196 c:\users\juan_\desktop\universidad\2) estructura de datos y algoritmos\practica\tpmaquinas\tp3\vicentuco 3.0\p3-grupo1\articulo.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1636002196 source:c:\users\juan_\desktop\universidad\2) estructura de datos y algoritmos\practica\tpmaquinas\tp3\vicentuco 3.0\p3-grupo1\articulo.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1636634374 source:c:\users\juan_\desktop\universidad\2) estructura de datos y algoritmos\practica\tpmaquinas\tp3\vicentuco 3.0\p3-grupo1\lso.h
+	<string.h>
+	"Articulo.h"
+
+1636634423 source:c:\users\juan_\desktop\universidad\2) estructura de datos y algoritmos\practica\tpmaquinas\tp3\vicentuco 3.0\p3-grupo1\lsobt.h
+	<math.h>
+	<string.h>
+	"Articulo.h"
+
+1636634814 source:c:\users\juan_\desktop\universidad\2) estructura de datos y algoritmos\practica\tpmaquinas\tp3\vicentuco 3.0\p3-grupo1\rac.h
+	<stdlib.h>
+	<string.h>
+	"articulo.h"
+
+1636634677 source:c:\users\juan_\desktop\universidad\2) estructura de datos y algoritmos\practica\tpmaquinas\tp3\vicentuco 3.0\p3-grupo1\ral.h
+	<stdlib.h>
+	<string.h>
+	"articulo.h"
+
+1636638448 source:c:\users\juan_\desktop\universidad\2) estructura de datos y algoritmos\practica\tpmaquinas\tp3\vicentuco 3.0\p3-grupo1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Articulo.h"
+	"LSO.h"
+	"LSOBT.h"
+	"RAL.h"
+	"RAC.h"
+	"ABB.h"
+
+1636634374 c:\users\juan_\desktop\universidad\2) estructura de datos y algoritmos\practica\tpmaquinas\tp3\vicentuco 3.0\p3-grupo1\lso.h
+	<string.h>
+	"Articulo.h"
+
+1636634423 c:\users\juan_\desktop\universidad\2) estructura de datos y algoritmos\practica\tpmaquinas\tp3\vicentuco 3.0\p3-grupo1\lsobt.h
+	<math.h>
+	<string.h>
+	"Articulo.h"
+
+1636634677 c:\users\juan_\desktop\universidad\2) estructura de datos y algoritmos\practica\tpmaquinas\tp3\vicentuco 3.0\p3-grupo1\ral.h
+	<stdlib.h>
+	<string.h>
+	"articulo.h"
+
+1636634814 c:\users\juan_\desktop\universidad\2) estructura de datos y algoritmos\practica\tpmaquinas\tp3\vicentuco 3.0\p3-grupo1\rac.h
+	<stdlib.h>
+	<string.h>
+	"articulo.h"
+
+1636633568 c:\users\juan_\desktop\universidad\2) estructura de datos y algoritmos\practica\tpmaquinas\tp3\vicentuco 3.0\p3-grupo1\abb.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"articulo.h"
+
+1636642244 source:c:\users\ginop\downloads\vicentuco 4.0-20211111t140804z-001\vicentuco 4.0\p3-grupo1\abb.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"articulo.h"
+
+1635987796 c:\users\ginop\downloads\vicentuco 4.0-20211111t140804z-001\vicentuco 4.0\p3-grupo1\articulo.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1635987796 source:c:\users\ginop\downloads\vicentuco 4.0-20211111t140804z-001\vicentuco 4.0\p3-grupo1\articulo.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1636616374 source:c:\users\ginop\downloads\vicentuco 4.0-20211111t140804z-001\vicentuco 4.0\p3-grupo1\lso.h
+	<string.h>
+	"Articulo.h"
+
+1636616422 source:c:\users\ginop\downloads\vicentuco 4.0-20211111t140804z-001\vicentuco 4.0\p3-grupo1\lsobt.h
+	<math.h>
+	<string.h>
+	"Articulo.h"
+
+1636616814 source:c:\users\ginop\downloads\vicentuco 4.0-20211111t140804z-001\vicentuco 4.0\p3-grupo1\rac.h
+	<stdlib.h>
+	<string.h>
+	"articulo.h"
+
+1636616676 source:c:\users\ginop\downloads\vicentuco 4.0-20211111t140804z-001\vicentuco 4.0\p3-grupo1\ral.h
+	<stdlib.h>
+	<string.h>
+	"articulo.h"
+
+1636642501 source:c:\users\ginop\downloads\vicentuco 4.0-20211111t140804z-001\vicentuco 4.0\p3-grupo1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Articulo.h"
+	"LSO.h"
+	"LSOBT.h"
+	"RAL.h"
+	"RAC.h"
+	"ABB.h"
+
+1636616374 c:\users\ginop\downloads\vicentuco 4.0-20211111t140804z-001\vicentuco 4.0\p3-grupo1\lso.h
+	<string.h>
+	"Articulo.h"
+
+1636616422 c:\users\ginop\downloads\vicentuco 4.0-20211111t140804z-001\vicentuco 4.0\p3-grupo1\lsobt.h
+	<math.h>
+	<string.h>
+	"Articulo.h"
+
+1636616676 c:\users\ginop\downloads\vicentuco 4.0-20211111t140804z-001\vicentuco 4.0\p3-grupo1\ral.h
+	<stdlib.h>
+	<string.h>
+	"articulo.h"
+
+1636616814 c:\users\ginop\downloads\vicentuco 4.0-20211111t140804z-001\vicentuco 4.0\p3-grupo1\rac.h
+	<stdlib.h>
+	<string.h>
+	"articulo.h"
+
+1636642244 c:\users\ginop\downloads\vicentuco 4.0-20211111t140804z-001\vicentuco 4.0\p3-grupo1\abb.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"articulo.h"
+
+1636750590 source:c:\users\juan_\desktop\universidad\2) estructura de datos y algoritmos\practica\tpmaquinas\tp3\hijo de la vero\p3-grupo1\abb.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"articulo.h"
+
+1635973396 c:\users\juan_\desktop\universidad\2) estructura de datos y algoritmos\practica\tpmaquinas\tp3\hijo de la vero\p3-grupo1\articulo.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1635973396 source:c:\users\juan_\desktop\universidad\2) estructura de datos y algoritmos\practica\tpmaquinas\tp3\hijo de la vero\p3-grupo1\articulo.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1636755500 source:c:\users\juan_\desktop\universidad\2) estructura de datos y algoritmos\practica\tpmaquinas\tp3\hijo de la vero\p3-grupo1\lso.h
+	<string.h>
+	"Articulo.h"
+
+1636756849 source:c:\users\juan_\desktop\universidad\2) estructura de datos y algoritmos\practica\tpmaquinas\tp3\hijo de la vero\p3-grupo1\lsobt.h
+	<math.h>
+	<string.h>
+	"Articulo.h"
+
+1636750590 source:c:\users\juan_\desktop\universidad\2) estructura de datos y algoritmos\practica\tpmaquinas\tp3\hijo de la vero\p3-grupo1\rac.h
+	<stdlib.h>
+	<string.h>
+	"articulo.h"
+
+1636750590 source:c:\users\juan_\desktop\universidad\2) estructura de datos y algoritmos\practica\tpmaquinas\tp3\hijo de la vero\p3-grupo1\ral.h
+	<stdlib.h>
+	<string.h>
+	"articulo.h"
+
+1636754889 source:c:\users\juan_\desktop\universidad\2) estructura de datos y algoritmos\practica\tpmaquinas\tp3\hijo de la vero\p3-grupo1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Articulo.h"
+	"LSO.h"
+	"LSOBT.h"
+	"RAL.h"
+	"RAC.h"
+	"ABB.h"
+
+1636755500 c:\users\juan_\desktop\universidad\2) estructura de datos y algoritmos\practica\tpmaquinas\tp3\hijo de la vero\p3-grupo1\lso.h
+	<string.h>
+	"Articulo.h"
+
+1636756849 c:\users\juan_\desktop\universidad\2) estructura de datos y algoritmos\practica\tpmaquinas\tp3\hijo de la vero\p3-grupo1\lsobt.h
+	<math.h>
+	<string.h>
+	"Articulo.h"
+
+1636750590 c:\users\juan_\desktop\universidad\2) estructura de datos y algoritmos\practica\tpmaquinas\tp3\hijo de la vero\p3-grupo1\ral.h
+	<stdlib.h>
+	<string.h>
+	"articulo.h"
+
+1636750590 c:\users\juan_\desktop\universidad\2) estructura de datos y algoritmos\practica\tpmaquinas\tp3\hijo de la vero\p3-grupo1\rac.h
+	<stdlib.h>
+	<string.h>
+	"articulo.h"
+
+1636750590 c:\users\juan_\desktop\universidad\2) estructura de datos y algoritmos\practica\tpmaquinas\tp3\hijo de la vero\p3-grupo1\abb.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"articulo.h"
+
+1636732590 source:c:\users\ginop\downloads\ryckeboer\p3-grupo1\abb.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"articulo.h"
+
+1635958996 c:\users\ginop\downloads\ryckeboer\p3-grupo1\articulo.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1635958996 source:c:\users\ginop\downloads\ryckeboer\p3-grupo1\articulo.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1636737500 source:c:\users\ginop\downloads\ryckeboer\p3-grupo1\lso.h
+	<string.h>
+	"Articulo.h"
+
+1636765242 source:c:\users\ginop\downloads\ryckeboer\p3-grupo1\lsobt.h
+	<math.h>
+	<string.h>
+	"Articulo.h"
+
+1636765242 source:c:\users\ginop\downloads\ryckeboer\p3-grupo1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Articulo.h"
+	"LSO.h"
+	"LSOBT.h"
+	"RAL.h"
+	"RAC.h"
+	"ABB.h"
+
+1636737500 c:\users\ginop\downloads\ryckeboer\p3-grupo1\lso.h
+	<string.h>
+	"Articulo.h"
+
+1636765242 c:\users\ginop\downloads\ryckeboer\p3-grupo1\lsobt.h
+	<math.h>
+	<string.h>
+	"Articulo.h"
+
+1636732590 c:\users\ginop\downloads\ryckeboer\p3-grupo1\ral.h
+	<stdlib.h>
+	<string.h>
+	"articulo.h"
+
+1636732590 c:\users\ginop\downloads\ryckeboer\p3-grupo1\rac.h
+	<stdlib.h>
+	<string.h>
+	"articulo.h"
+
+1636732590 c:\users\ginop\downloads\ryckeboer\p3-grupo1\abb.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"articulo.h"
+
+1636732590 source:c:\users\ginop\downloads\ryckeboer\p3-grupo1\rac.h
+	<stdlib.h>
+	<string.h>
+	"articulo.h"
+
+1636732590 source:c:\users\ginop\downloads\ryckeboer\p3-grupo1\ral.h
+	<stdlib.h>
+	<string.h>
+	"articulo.h"
+
+1638027350 source:c:\users\juan_\desktop\universidad\2) estructura de datos y algoritmos\practica\tpmaquinas\tp3\p3-grupo1\abb.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"articulo.h"
+
+1635944596 source:c:\users\juan_\desktop\universidad\2) estructura de datos y algoritmos\practica\tpmaquinas\tp3\p3-grupo1\articulo.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1637979413 source:c:\users\juan_\desktop\universidad\2) estructura de datos y algoritmos\practica\tpmaquinas\tp3\p3-grupo1\lso.h
+	<string.h>
+	"Articulo.h"
+
+1638030350 source:c:\users\juan_\desktop\universidad\2) estructura de datos y algoritmos\practica\tpmaquinas\tp3\p3-grupo1\rac.h
+	<stdlib.h>
+	<string.h>
+	"articulo.h"
+
+1638030350 source:c:\users\juan_\desktop\universidad\2) estructura de datos y algoritmos\practica\tpmaquinas\tp3\p3-grupo1\ral.h
+	<stdlib.h>
+	<string.h>
+	"articulo.h"
+
+1638146632 source:c:\users\juan_\desktop\universidad\2) estructura de datos y algoritmos\practica\tpmaquinas\tp3\p3-grupo1\lsobt.h
+	<math.h>
+	<string.h>
+	"Articulo.h"
+
+1638303694 source:c:\users\ginop\downloads\29-11 03_37\p3-grupo1\abb.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"articulo.h"
+
+1635930196 c:\users\ginop\downloads\29-11 03_37\p3-grupo1\articulo.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1635930196 source:c:\users\ginop\downloads\29-11 03_37\p3-grupo1\articulo.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1638303694 source:c:\users\ginop\downloads\29-11 03_37\p3-grupo1\lso.h
+	<string.h>
+	"Articulo.h"
+
+1638298543 source:c:\users\ginop\downloads\29-11 03_37\p3-grupo1\lsobt.h
+	<math.h>
+	<string.h>
+	"Articulo.h"
+
+1638304613 source:c:\users\ginop\downloads\29-11 03_37\p3-grupo1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Articulo.h"
+	"LSO.h"
+	"LSOBT.h"
+	"RAL.h"
+	"RAC.h"
+	"ABB.h"
+
+1638303694 c:\users\ginop\downloads\29-11 03_37\p3-grupo1\lso.h
+	<string.h>
+	"Articulo.h"
+
+1638298543 c:\users\ginop\downloads\29-11 03_37\p3-grupo1\lsobt.h
+	<math.h>
+	<string.h>
+	"Articulo.h"
+
+1638298543 c:\users\ginop\downloads\29-11 03_37\p3-grupo1\ral.h
+	<stdlib.h>
+	<string.h>
+	"articulo.h"
+
+1638298543 c:\users\ginop\downloads\29-11 03_37\p3-grupo1\rac.h
+	<stdlib.h>
+	<string.h>
+	"articulo.h"
+
+1638303694 c:\users\ginop\downloads\29-11 03_37\p3-grupo1\abb.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"articulo.h"
+
+1638298543 source:c:\users\ginop\downloads\29-11 03_37\p3-grupo1\rac.h
+	<stdlib.h>
+	<string.h>
+	"articulo.h"
+
+1638298543 source:c:\users\ginop\downloads\29-11 03_37\p3-grupo1\ral.h
+	<stdlib.h>
+	<string.h>
+	"articulo.h"
+
+1638285694 source:c:\users\ginop\downloads\p3-grupo1-20220527t155237z-001\p3-grupo1\abb.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"articulo.h"
+
+1635915796 c:\users\ginop\downloads\p3-grupo1-20220527t155237z-001\p3-grupo1\articulo.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1635915796 source:c:\users\ginop\downloads\p3-grupo1-20220527t155237z-001\p3-grupo1\articulo.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1638285694 source:c:\users\ginop\downloads\p3-grupo1-20220527t155237z-001\p3-grupo1\lso.h
+	<string.h>
+	"Articulo.h"
+
+1638280542 source:c:\users\ginop\downloads\p3-grupo1-20220527t155237z-001\p3-grupo1\lsobt.h
+	<math.h>
+	<string.h>
+	"Articulo.h"
+
+1638280542 source:c:\users\ginop\downloads\p3-grupo1-20220527t155237z-001\p3-grupo1\rac.h
+	<stdlib.h>
+	<string.h>
+	"articulo.h"
+
+1638280542 source:c:\users\ginop\downloads\p3-grupo1-20220527t155237z-001\p3-grupo1\ral.h
+	<stdlib.h>
+	<string.h>
+	"articulo.h"
+
+1653666879 source:c:\users\ginop\downloads\p3-grupo1-20220527t155237z-001\p3-grupo1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Articulo.h"
+	"LSO.h"
+	"LSOBT.h"
+	"RAL.h"
+	"RAC.h"
+	"ABB.h"
+
+1638285694 c:\users\ginop\downloads\p3-grupo1-20220527t155237z-001\p3-grupo1\lso.h
+	<string.h>
+	"Articulo.h"
+
+1638280542 c:\users\ginop\downloads\p3-grupo1-20220527t155237z-001\p3-grupo1\lsobt.h
+	<math.h>
+	<string.h>
+	"Articulo.h"
+
+1638280542 c:\users\ginop\downloads\p3-grupo1-20220527t155237z-001\p3-grupo1\ral.h
+	<stdlib.h>
+	<string.h>
+	"articulo.h"
+
+1638280542 c:\users\ginop\downloads\p3-grupo1-20220527t155237z-001\p3-grupo1\rac.h
+	<stdlib.h>
+	<string.h>
+	"articulo.h"
+
+1638285694 c:\users\ginop\downloads\p3-grupo1-20220527t155237z-001\p3-grupo1\abb.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"articulo.h"
+
